@@ -1,0 +1,5 @@
+com\devsuperior\userdept\repositories\UserRepository.class
+com\devsuperior\userdept\UserdeptApplication.class
+com\devsuperior\userdept\controllers\UserController.class
+com\devsuperior\userdept\entities\Department.class
+com\devsuperior\userdept\entities\User.class
